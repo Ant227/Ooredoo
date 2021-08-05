@@ -80,12 +80,7 @@ h1 {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
-.border-img{
-  border-radius: 14px;
-}
-.border-img-ocr{
-  border-radius: 10px;
-}
+
 
 .bottom-container {
   background-color: red;
@@ -178,24 +173,15 @@ h1 {
   width: 173px;
 }
 
-.image-box-ddd{
-  border-radius: 15px;
-  width: 104px;
-  height: 190px;
+.image-box{
+  width: 150px;
+  height: 300px;
 }
 
-.image-box-oomanji{
-  border-radius: 14px;
-  width: 104px;
-  height: 190px;
+.info{
+  width: 90px;
+  height: 180px;
 }
-
-.image-box-moax{
-  border-radius: 15px;
-  width: 104px;
-  height: 190px;
-}
-
 .image-box-ocr{
   border-radius: 10px;
   width: 104px;
